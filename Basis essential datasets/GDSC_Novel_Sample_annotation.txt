@@ -1,0 +1,955 @@
+ROW	GSM_IDENTIFIER	TYPE	TYPE_SIMPLIFIED	
+1	X5500994172383112813929_G08.cel	Breast cancer	Breast cancer
+2	X5500994158987071513209_C05.cel	Breast cancer	Breast cancer
+3	X5500994172383112813929_E09.cel	Breast cancer	Breast cancer
+4	X5500994172383112813929_G10.cel	Breast cancer	Breast cancer
+5	X5500994172948120113978_A09.cel	Breast cancer	Breast cancer
+6	X5500994158987071513209_G08.cel	Breast cancer	Breast cancer
+7	X5500994173212120213068_G06.cel	Breast cancer	Breast cancer
+8	X5500994175999120813240_D01.cel	Breast cancer	Breast cancer
+9	X5500994172383112813929_H10.cel	Breast cancer	Breast cancer
+10	X5500994172948120113978_F09.cel	Breast cancer	Breast cancer
+11	X5500994172383112813929_A12.cel	Breast cancer	Breast cancer
+12	X5500994157493061613625_B05.cel	Breast cancer	Breast cancer
+13	X5500994175999120813240_B06.cel	Breast cancer	Breast cancer
+14	X5500994158987071513209_D05.cel	Breast cancer	Breast cancer
+15	X5500994158987071513207_F12.cel	Breast cancer	Breast cancer
+16	X5500994172383112813929_E10.cel	Breast cancer	Breast cancer
+17	X5500994172383112813929_F10.cel	Breast cancer	Breast cancer
+18	X5500994172383112813928_H07.cel	Breast cancer	Breast cancer
+19	X5500994172383112813929_A09.cel	Breast cancer	Breast cancer
+20	X5500994172383112813929_A11.cel	Breast cancer	Breast cancer
+21	X5500994158987071513209_A05.cel	Breast cancer	Breast cancer
+22	X5500994157493061613625_A10.cel	Breast cancer	Breast cancer
+23	X5500994158987071513209_A08.cel	Breast cancer	Breast cancer
+24	X5500994172383112813929_A01.cel	Breast cancer	Breast cancer
+25	X5500994172383112813928_C01.cel	Breast cancer	Breast cancer
+26	X5500994158987071513207_C04.cel	Breast cancer	Breast cancer
+27	X5500994158987071513209_G11.cel	Breast cancer	Breast cancer
+28	X5500994158987071513201_G10.cel	Breast cancer	Breast cancer
+29	X5500994172383112813929_H08.cel	Breast cancer	Breast cancer
+30	X5500994172383112813928_D01.cel	Breast cancer	Breast cancer
+31	X5500994158987071513209_D06.cel	Breast cancer	Breast cancer
+32	X5500994157493061613625_C06.cel	Breast cancer	Breast cancer
+33	X5500994172948120113978_H01.cel	Breast cancer	Breast cancer
+34	X5500994173603120813304_G10.cel	Breast cancer	Breast cancer
+35	X5500994158987071513202_B11.cel	Breast cancer	Breast cancer
+36	X5500994158987071513207_C06.cel	Breast cancer	Breast cancer
+37	X5500994172948120113978_G04.cel	Breast cancer	Breast cancer
+38	X5500994157493061613625_A01.cel	Breast cancer	Breast cancer
+39	X5500994172383112813929_E12.cel	Breast cancer	Breast cancer
+40	X5500994158987071513207_F01.cel	Breast cancer	Breast cancer
+41	X5500994175999120813240_B09.cel	Breast cancer	Breast cancer
+42	X5500994158987071513207_F02.cel	Breast cancer	Breast cancer
+43	X5500994157493061613625_F04.cel	Breast cancer	Breast cancer
+44	X5500994173212120213068_A01.cel	Breast cancer	Breast cancer
+45	X5500994157493061613625_F06.cel	Breast cancer	Breast cancer
+46	X5500994175999120813240_H07.cel	Breast cancer	Breast cancer
+47	X5500994157493061613625_D11.cel	Breast cancer	Breast cancer
+48	X5500994172383112813928_B01.cel	Breast cancer	Breast cancer
+49	X5500994172948120113978_E08.cel	Breast cancer	Breast cancer
+50	X5500994157493061613625_A03.cel	Breast cancer	Breast cancer
+51	X5500994172383112813928_E03.cel	CNS cancer	CNS cancer
+52	X5500994173212120213068_F03.cel	CNS cancer	CNS cancer
+53	X5500994158987071513207_D06.cel	CNS cancer	CNS cancer
+54	X5500994172383112813929_D05.cel	CNS cancer	CNS cancer
+55	X5500994158987071513202_G02.cel	CNS cancer	CNS cancer
+56	X5500994158987071513202_C07.cel	CNS cancer	CNS cancer
+57	X5500994172383112813928_E07.cel	CNS cancer	CNS cancer
+58	X5500994158987071513202_G03.cel	CNS cancer	CNS cancer
+59	X5500994172383112813930_A09.cel	CNS cancer	CNS cancer
+60	X5500994158987071513209_C01.cel	CNS cancer	CNS cancer
+61	X5500994172383112813928_C05.cel	CNS cancer	CNS cancer
+62	X5500994158987071513202_A10.cel	CNS cancer	CNS cancer
+63	X5500994172383112813929_C05.cel	CNS cancer	CNS cancer
+64	X5500994158987071513201_B11.cel	CNS cancer	CNS cancer
+65	X5500994175999120813240_A06.cel	CNS cancer	CNS cancer
+66	X5500994158987071513209_H01.cel	CNS cancer	CNS cancer
+67	X5500994172383112813930_C08.cel	CNS cancer	CNS cancer
+68	X5500994158987071513209_B10.cel	CNS cancer	CNS cancer
+69	X5500994158987071513209_E10.cel	CNS cancer	CNS cancer
+70	X5500994158987071513209_C03.cel	CNS cancer	CNS cancer
+71	X5500994158987071513202_E02.cel	CNS cancer	CNS cancer
+72	X5500994158987071513207_A06.cel	CNS cancer	CNS cancer
+73	X5500994172383112813929_A06.cel	CNS cancer	CNS cancer
+74	X5500994158987071513202_A04.cel	CNS cancer	CNS cancer
+75	X5500994172383112813928_A02.cel	CNS cancer	CNS cancer
+76	X5500994158987071513209_A11.cel	CNS cancer	CNS cancer
+77	X5500994157493061613625_C08.cel	CNS cancer	CNS cancer
+78	X5500994173212120213068_B03.cel	CNS cancer	CNS cancer
+79	X5500994158987071513201_D06.cel	CNS cancer	CNS cancer
+80	X5500994158987071513207_G12.cel	CNS cancer	CNS cancer
+81	X5500994172383112813930_H07.cel	CNS cancer	CNS cancer
+82	X5500994158987071513207_C09.cel	CNS cancer	CNS cancer
+83	X5500994158987071513202_A09.cel	CNS cancer	CNS cancer
+84	X5500994158987071513202_D07.cel	CNS cancer	CNS cancer
+85	X5500994158987071513202_H08.cel	CNS cancer	CNS cancer
+86	X5500994158987071513202_C10.cel	CNS cancer	CNS cancer
+87	X5500994172383112813930_H12.cel	CNS cancer	CNS cancer
+88	X5500994175999120813240_H05.cel	CNS cancer	CNS cancer
+89	X5500994158987071513202_E07.cel	CNS cancer	CNS cancer
+90	X5500994157493061613625_E11.cel	CNS cancer	CNS cancer
+91	X5500994175999120813240_C05.cel	CNS cancer	CNS cancer
+92	X5500994157493061613625_D06.cel	CNS cancer	CNS cancer
+93	X5500994158987071513207_G03.cel	CNS cancer	CNS cancer
+94	X5500994157493061613625_B01.cel	CNS cancer	CNS cancer
+95	X5500994158987071513209_C06.cel	CNS cancer	CNS cancer
+96	X5500994158987071513202_B07.cel	CNS cancer	CNS cancer
+97	X5500994175999120813240_G04.cel	CNS cancer	CNS cancer
+98	X5500994172383112813929_H09.cel	CNS cancer	CNS cancer
+99	X5500994172383112813929_E05.cel	CNS cancer	CNS cancer
+100	X5500994172383112813930_G12.cel	CNS cancer	CNS cancer
+101	X5500994158987071513207_H03.cel	CNS cancer	CNS cancer
+102	X5500994172948120113978_A05.cel	CNS cancer	CNS cancer
+103	X5500994158987071513207_A04.cel	CNS cancer	CNS cancer
+104	X5500994175999120813240_C01.cel	CNS cancer	CNS cancer
+105	X5500994158987071513209_D10.cel	CNS cancer	CNS cancer
+106	X5500994172948120113978_E09.cel	CNS cancer	CNS cancer
+107	X5500994158987071513207_D01.cel	Endocrine cancer	Endocrine cancer
+108	X5500994158987071513209_A04.cel	Endocrine cancer	Endocrine cancer
+109	X5500994172383112813930_F11.cel	Endocrine cancer	Endocrine cancer
+110	X5500994158987071513209_F01.cel	Endocrine cancer	Endocrine cancer
+111	X5500994175999120813240_H10.cel	Endocrine cancer	Endocrine cancer
+112	X5500994172383112813929_D10.cel	Endocrine cancer	Endocrine cancer
+113	X5500994173212120213068_A06.cel	Endocrine cancer	Endocrine cancer
+114	X5500994158987071513207_F08.cel	Endocrine cancer	Endocrine cancer
+115	X5500994175999120813240_C08.cel	Endocrine cancer	Endocrine cancer
+116	X5500994158987071513209_B05.cel	Endocrine cancer	Endocrine cancer
+117	X5500994172383112813929_G04.cel	Endocrine cancer	Endocrine cancer
+118	X5500994172383112813929_A03.cel	Endocrine cancer	Endocrine cancer
+119	X5500994175999120813240_C02.cel	Endocrine cancer	Endocrine cancer
+120	X5500994175999120813240_G06.cel	Endocrine cancer	Endocrine cancer
+121	X5500994172383112813928_G08.cel	Endocrine cancer	Endocrine cancer
+122	X5500994158987071513201_F03.cel	Endocrine cancer	Endocrine cancer
+123	X5500994172383112813928_B09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+124	X5500994172383112813930_D05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+125	X5500994158987071513202_C04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+126	X5500994158987071513207_G11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+127	X5500994172383112813929_C12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+128	X5500994172383112813929_B06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+129	X5500994172383112813928_F08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+130	X5500994158987071513207_H01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+131	X5500994175999120813240_H09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+132	X5500994172383112813929_C10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+133	X5500994158987071513207_E11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+134	X5500994158987071513201_D10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+135	X5500994173603120813304_E10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+136	X5500994158987071513202_H06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+137	X5500994158987071513207_C02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+138	X5500994172383112813928_B06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+139	X5500994173603120813304_A11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+140	X5500994158987071513202_H09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+141	X5500994172948120113978_F07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+142	X5500994158987071513209_C07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+143	X5500994158987071513207_A03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+144	X5500994158987071513207_G01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+145	X5500994172383112813930_D06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+146	X5500994158987071513209_C08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+147	X5500994175999120813240_G09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+148	X5500994158987071513202_E06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+149	X5500994158987071513209_F05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+150	X5500994158987071513201_F02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+151	X5500994158987071513201_B05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+152	X5500994172383112813930_F09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+153	X5500994172948120113978_E05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+154	X5500994172383112813930_F10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+155	X5500994158987071513207_B10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+156	X5500994172383112813929_E08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+157	X5500994158987071513201_D02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+158	X5500994172383112813930_E11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+159	X5500994158987071513202_H10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+160	X5500994172948120113978_C02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+161	X5500994158987071513201_C05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+162	X5500994157493061613625_H03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+163	X5500994172383112813930_C11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+164	X5500994173212120213068_D04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+165	X5500994158987071513209_F06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+166	X5500994158987071513202_G08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+167	X5500994158987071513201_E01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+168	X5500994175999120813240_H01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+169	X5500994158987071513207_A11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+170	X5500994158987071513202_B03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+171	X5500994172383112813928_D08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+172	X5500994158987071513207_F11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+173	X5500994173212120213068_B08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+174	X5500994172383112813930_F12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+175	X5500994175999120813240_D09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+176	X5500994158987071513201_H04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+177	X5500994158987071513201_E12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+178	X5500994158987071513207_C11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+179	X5500994158987071513209_G05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+180	X5500994158987071513209_D07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+181	X5500994157493061613625_C05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+182	X5500994173212120213068_A02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+183	X5500994158987071513209_F08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+184	X5500994172383112813929_A04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+185	X5500994173212120213068_F07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+186	X5500994172383112813930_G03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+187	X5500994172383112813929_B10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+188	X5500994158987071513207_B06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+189	X5500994158987071513207_F10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+190	X5500994173212120213068_H03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+191	X5500994173603120813304_C10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+192	X5500994172383112813928_D05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+193	X5500994157493061613625_H09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+194	X5500994172948120113978_B11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+195	X5500994158987071513202_G06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+196	X5500994172383112813928_F11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+197	X5500994172383112813928_E11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+198	X5500994157493061613625_E03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+199	X5500994158987071513207_D09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+200	X5500994157493061613625_E04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+201	X5500994172383112813928_A04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+202	X5500994173212120213068_B04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+203	X5500994158987071513209_C10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+204	X5500994158987071513209_A12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+205	X5500994157493061613625_A11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+206	X5500994172383112813929_C04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+207	X5500994157493061613625_G11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+208	X5500994173212120213068_A09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+209	X5500994173212120213068_H01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+210	X5500994172383112813928_C03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+211	X5500994172383112813929_C08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+212	X5500994158987071513207_H12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+213	X5500994158987071513201_A05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+214	X5500994172383112813928_F06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+215	X5500994157493061613625_F08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+216	X5500994172383112813930_A07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+217	X5500994172383112813930_B06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+218	X5500994173212120213068_G05.cel	Gastrointestinal cancer	Gastrointestinal cancer
+219	X5500994172383112813930_B12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+220	X5500994172383112813929_D04.cel	Gastrointestinal cancer	Gastrointestinal cancer
+221	X5500994158987071513209_B01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+222	X5500994158987071513207_C08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+223	X5500994172383112813929_G12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+224	X5500994173212120213068_D02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+225	X5500994172948120113978_E02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+226	X5500994172383112813929_H11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+227	X5500994172383112813929_C06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+228	X5500994173212120213068_B09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+229	X5500994175999120813240_E02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+230	X5500994172383112813928_E12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+231	X5500994172383112813929_E11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+232	X5500994172383112813929_B12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+233	X5500994173212120213068_E01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+234	X5500994173212120213068_B02.cel	Gastrointestinal cancer	Gastrointestinal cancer
+235	X5500994172383112813930_E12.cel	Gastrointestinal cancer	Gastrointestinal cancer
+236	X5500994172948120113978_E07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+237	X5500994172383112813930_G10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+238	X5500994157493061613625_C10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+239	X5500994172383112813928_E08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+240	X5500994158987071513202_D08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+241	X5500994172383112813930_A06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+242	X5500994175999120813240_C07.cel	Gastrointestinal cancer	Gastrointestinal cancer
+243	X5500994173212120213068_G01.cel	Gastrointestinal cancer	Gastrointestinal cancer
+244	X5500994173212120213068_F09.cel	Gastrointestinal cancer	Gastrointestinal cancer
+245	X5500994158987071513202_B10.cel	Gastrointestinal cancer	Gastrointestinal cancer
+246	X5500994172383112813928_G06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+247	X5500994158987071513202_F06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+248	X5500994175999120813240_B03.cel	Gastrointestinal cancer	Gastrointestinal cancer
+249	X5500994172383112813929_F08.cel	Gastrointestinal cancer	Gastrointestinal cancer
+250	X5500994158987071513201_E06.cel	Gastrointestinal cancer	Gastrointestinal cancer
+251	X5500994172948120113978_D11.cel	Gastrointestinal cancer	Gastrointestinal cancer
+252	X5500994158987071513202_H02.cel	Haematopoietic other	Haematopoietic other
+253	X5500994172383112813929_D07.cel	Haematopoietic other	Haematopoietic other
+254	X5500994172383112813928_G04.cel	Haematopoietic other	Haematopoietic other
+255	X5500994172383112813928_D10.cel	Haematopoietic other	Haematopoietic other
+256	X5500994172383112813929_B02.cel	Haematopoietic other	Haematopoietic other
+257	X5500994172948120113978_H03.cel	Haematopoietic other	Haematopoietic other
+258	X5500994172383112813929_C03.cel	HNSCC	HNSCC
+259	X5500994172383112813928_C06.cel	HNSCC	HNSCC
+260	X5500994173603120813304_C12.cel	HNSCC	HNSCC
+261	X5500994158987071513202_E04.cel	HNSCC	HNSCC
+262	X5500994173212120213068_D07.cel	HNSCC	HNSCC
+263	X5500994172383112813928_G01.cel	HNSCC	HNSCC
+264	X5500994158987071513201_A06.cel	HNSCC	HNSCC
+265	X5500994173603120813304_G12.cel	HNSCC	HNSCC
+266	X5500994158987071513209_F04.cel	HNSCC	HNSCC
+267	X5500994158987071513209_C11.cel	HNSCC	HNSCC
+268	X5500994172383112813929_G09.cel	HNSCC	HNSCC
+269	X5500994158987071513201_C11.cel	HNSCC	HNSCC
+270	X5500994158987071513202_C08.cel	HNSCC	HNSCC
+271	X5500994158987071513207_A10.cel	HNSCC	HNSCC
+272	X5500994172383112813930_H09.cel	HNSCC	HNSCC
+273	X5500994172383112813928_G03.cel	HNSCC	HNSCC
+274	X5500994172383112813928_C07.cel	HNSCC	HNSCC
+275	X5500994172383112813929_G03.cel	HNSCC	HNSCC
+276	X5500994172383112813928_G11.cel	HNSCC	HNSCC
+277	X5500994172383112813929_B08.cel	HNSCC	HNSCC
+278	X5500994172383112813928_B05.cel	HNSCC	HNSCC
+279	X5500994172383112813929_D08.cel	HNSCC	HNSCC
+280	X5500994158987071513201_E11.cel	HNSCC	HNSCC
+281	X5500994173603120813304_H10.cel	HNSCC	HNSCC
+282	X5500994172383112813928_F01.cel	HNSCC	HNSCC
+283	X5500994172383112813928_H11.cel	HNSCC	HNSCC
+284	X5500994158987071513201_B06.cel	HNSCC	HNSCC
+285	X5500994158987071513207_G06.cel	HNSCC	HNSCC
+286	X5500994158987071513209_A06.cel	HNSCC	HNSCC
+287	X5500994172948120113978_E11.cel	HNSCC	HNSCC
+288	X5500994158987071513209_F10.cel	HNSCC	HNSCC
+289	X5500994172948120113978_G11.cel	HNSCC	HNSCC
+290	X5500994157493061613625_F11.cel	HNSCC	HNSCC
+291	X5500994172383112813930_D12.cel	HNSCC	HNSCC
+292	X5500994158987071513201_H05.cel	HNSCC	HNSCC
+293	X5500994172383112813929_D03.cel	HNSCC	HNSCC
+294	X5500994172383112813929_H03.cel	HNSCC	HNSCC
+295	X5500994173603120813304_B11.cel	HNSCC	HNSCC
+296	X5500994172383112813929_F02.cel	HNSCC	HNSCC
+297	X5500994158987071513201_F05.cel	HNSCC	HNSCC
+298	X5500994158987071513201_G05.cel	HNSCC	HNSCC
+299	X5500994158987071513209_G04.cel	HNSCC	HNSCC
+300	X5500994175999120813240_E06.cel	HNSCC	HNSCC
+301	X5500994158987071513201_E03.cel	HNSCC	HNSCC
+302	X5500994158987071513202_F07.cel	Leukemia	Leukemia
+303	X5500994173212120213068_G04.cel	Leukemia	Leukemia
+304	X5500994173212120213068_C05.cel	Leukemia	Leukemia
+305	X5500994158987071513202_D02.cel	Leukemia	Leukemia
+306	X5500994173212120213068_G07.cel	Leukemia	Leukemia
+307	X5500994158987071513209_E05.cel	Leukemia	Leukemia
+308	X5500994158987071513207_E01.cel	Leukemia	Leukemia
+309	X5500994158987071513202_C12.cel	Leukemia	Leukemia
+310	X5500994158987071513202_D04.cel	Leukemia	Leukemia
+311	X5500994158987071513209_F03.cel	Leukemia	Leukemia
+312	X5500994158987071513202_B02.cel	Leukemia	Leukemia
+313	X5500994172383112813929_H02.cel	Leukemia	Leukemia
+314	X5500994173212120213068_H07.cel	Leukemia	Leukemia
+315	X5500994158987071513201_F12.cel	Leukemia	Leukemia
+316	X5500994158987071513207_D08.cel	Leukemia	Leukemia
+317	X5500994173603120813304_D11.cel	Leukemia	Leukemia
+318	X5500994175999120813240_B07.cel	Leukemia	Leukemia
+319	X5500994172383112813929_A10.cel	Leukemia	Leukemia
+320	X5500994158987071513209_G03.cel	Leukemia	Leukemia
+321	X5500994175999120813240_B04.cel	Leukemia	Leukemia
+322	X5500994158987071513207_B03.cel	Leukemia	Leukemia
+323	X5500994172383112813928_C10.cel	Leukemia	Leukemia
+324	X5500994173212120213068_E05.cel	Leukemia	Leukemia
+325	X5500994158987071513207_C01.cel	Leukemia	Leukemia
+326	X5500994158987071513209_B12.cel	Leukemia	Leukemia
+327	X5500994158987071513201_F04.cel	Leukemia	Leukemia
+328	X5500994158987071513201_B10.cel	Leukemia	Leukemia
+329	X5500994172383112813930_F07.cel	Leukemia	Leukemia
+330	X5500994158987071513201_A02.cel	Leukemia	Leukemia
+331	X5500994172948120113978_G06.cel	Leukemia	Leukemia
+332	X5500994172948120113978_G02.cel	Leukemia	Leukemia
+333	X5500994158987071513202_G11.cel	Leukemia	Leukemia
+334	X5500994172948120113978_C05.cel	Leukemia	Leukemia
+335	X5500994173603120813304_D10.cel	Leukemia	Leukemia
+336	X5500994172948120113978_A01.cel	Leukemia	Leukemia
+337	X5500994172948120113978_F06.cel	Leukemia	Leukemia
+338	X5500994172383112813929_A08.cel	Leukemia	Leukemia
+339	X5500994175999120813240_B08.cel	Leukemia	Leukemia
+340	X5500994172383112813930_A10.cel	Leukemia	Leukemia
+341	X5500994158987071513202_C03.cel	Leukemia	Leukemia
+342	X5500994158987071513209_B04.cel	Leukemia	Leukemia
+343	X5500994158987071513202_E10.cel	Leukemia	Leukemia
+344	X5500994158987071513209_G09.cel	Leukemia	Leukemia
+345	X5500994172948120113978_D05.cel	Leukemia	Leukemia
+346	X5500994172383112813930_E07.cel	Leukemia	Leukemia
+347	X5500994157493061613625_D07.cel	Leukemia	Leukemia
+348	X5500994172383112813929_F11.cel	Leukemia	Leukemia
+349	X5500994173212120213068_A03.cel	Leukemia	Leukemia
+350	X5500994173603120813304_A10.cel	Leukemia	Leukemia
+351	X5500994158987071513202_H07.cel	Leukemia	Leukemia
+352	X5500994158987071513207_C03.cel	Leukemia	Leukemia
+353	X5500994175999120813240_H03.cel	Leukemia	Leukemia
+354	X5500994158987071513207_B04.cel	Leukemia	Leukemia
+355	X5500994158987071513209_D01.cel	Leukemia	Leukemia
+356	X5500994158987071513207_D10.cel	Leukemia	Leukemia
+357	X5500994175999120813240_E01.cel	Leukemia	Leukemia
+358	X5500994172383112813929_G05.cel	Leukemia	Leukemia
+359	X5500994172383112813929_E04.cel	Leukemia	Leukemia
+360	X5500994173212120213068_A04.cel	Leukemia	Leukemia
+361	X5500994175999120813240_C04.cel	Leukemia	Leukemia
+362	X5500994158987071513202_B04.cel	Leukemia	Leukemia
+363	X5500994157493061613625_A07.cel	Leukemia	Leukemia
+364	X5500994158987071513207_E02.cel	Leukemia	Leukemia
+365	X5500994175999120813240_D04.cel	Leukemia	Leukemia
+366	X5500994158987071513201_E04.cel	Leukemia	Leukemia
+367	X5500994158987071513202_F11.cel	Leukemia	Leukemia
+368	X5500994158987071513201_C06.cel	Leukemia	Leukemia
+369	X5500994158987071513201_A04.cel	Leukemia	Leukemia
+370	X5500994172383112813928_A03.cel	Leukemia	Leukemia
+371	X5500994158987071513201_G04.cel	Leukemia	Leukemia
+372	X5500994172383112813928_H02.cel	Leukemia	Leukemia
+373	X5500994172383112813928_F07.cel	Leukemia	Leukemia
+374	X5500994158987071513202_H11.cel	Leukemia	Leukemia
+375	X5500994158987071513202_H04.cel	Leukemia	Leukemia
+376	X5500994175999120813240_H04.cel	Leukemia	Leukemia
+377	X5500994172383112813930_C06.cel	Leukemia	Leukemia
+378	X5500994158987071513202_F02.cel	Leukemia	Leukemia
+379	X5500994158987071513202_E11.cel	Leukemia	Leukemia
+380	X5500994172948120113978_B03.cel	Lung cancer	Lung cancer
+381	X5500994172383112813930_E02.cel	Lung cancer	Lung cancer
+382	X5500994158987071513209_B09.cel	Lung cancer	Lung cancer
+383	X5500994172948120113978_G03.cel	Lung cancer	Lung cancer
+384	X5500994172383112813930_F05.cel	Lung cancer	Lung cancer
+385	X5500994158987071513209_C09.cel	Lung cancer	Lung cancer
+386	X5500994172948120113978_B08.cel	Lung cancer	Lung cancer
+387	X5500994172383112813929_F05.cel	Lung cancer	Lung cancer
+388	X5500994157493061613625_E02.cel	Lung cancer	Lung cancer
+389	X5500994158987071513202_E05.cel	Lung cancer	Lung cancer
+390	X5500994173212120213068_D08.cel	Lung cancer	Lung cancer
+391	X5500994172383112813928_G09.cel	Lung cancer	Lung cancer
+392	X5500994158987071513202_A06.cel	Lung cancer	Lung cancer
+393	X5500994172383112813928_E05.cel	Lung cancer	Lung cancer
+394	X5500994158987071513209_D09.cel	Lung cancer	Lung cancer
+395	X5500994172948120113978_G01.cel	Lung cancer	Lung cancer
+396	X5500994172383112813930_B02.cel	Lung cancer	Lung cancer
+397	X5500994172383112813930_A01.cel	Lung cancer	Lung cancer
+398	X5500994172948120113978_F04.cel	Lung cancer	Lung cancer
+399	X5500994172383112813930_E04.cel	Lung cancer	Lung cancer
+400	X5500994173212120213068_F06.cel	Lung cancer	Lung cancer
+401	X5500994172948120113978_B02.cel	Lung cancer	Lung cancer
+402	X5500994172383112813929_G07.cel	Lung cancer	Lung cancer
+403	X5500994172383112813930_A05.cel	Lung cancer	Lung cancer
+404	X5500994172948120113978_A04.cel	Lung cancer	Lung cancer
+405	X5500994158987071513201_B09.cel	Lung cancer	Lung cancer
+406	X5500994158987071513201_G07.cel	Lung cancer	Lung cancer
+407	X5500994172383112813929_D12.cel	Lung cancer	Lung cancer
+408	X5500994172948120113978_F01.cel	Lung cancer	Lung cancer
+409	X5500994172948120113978_F05.cel	Lung cancer	Lung cancer
+410	X5500994158987071513201_H12.cel	Lung cancer	Lung cancer
+411	X5500994158987071513202_A08.cel	Lung cancer	Lung cancer
+412	X5500994172383112813928_A10.cel	Lung cancer	Lung cancer
+413	X5500994158987071513207_B01.cel	Lung cancer	Lung cancer
+414	X5500994172948120113978_D06.cel	Lung cancer	Lung cancer
+415	X5500994172383112813930_A02.cel	Lung cancer	Lung cancer
+416	X5500994157493061613625_D09.cel	Lung cancer	Lung cancer
+417	X5500994172948120113978_A06.cel	Lung cancer	Lung cancer
+418	X5500994158987071513201_G12.cel	Lung cancer	Lung cancer
+419	X5500994172948120113978_F02.cel	Lung cancer	Lung cancer
+420	X5500994158987071513202_H05.cel	Lung cancer	Lung cancer
+421	X5500994172383112813929_D02.cel	Lung cancer	Lung cancer
+422	X5500994172948120113978_A03.cel	Lung cancer	Lung cancer
+423	X5500994172383112813930_D01.cel	Lung cancer	Lung cancer
+424	X5500994158987071513201_D09.cel	Lung cancer	Lung cancer
+425	X5500994172948120113978_D02.cel	Lung cancer	Lung cancer
+426	X5500994172383112813930_G04.cel	Lung cancer	Lung cancer
+427	X5500994172948120113978_H05.cel	Lung cancer	Lung cancer
+428	X5500994158987071513201_B07.cel	Lung cancer	Lung cancer
+429	X5500994172383112813930_B03.cel	Lung cancer	Lung cancer
+430	X5500994158987071513201_F07.cel	Lung cancer	Lung cancer
+431	X5500994175999120813240_G10.cel	Lung cancer	Lung cancer
+432	X5500994172948120113978_F11.cel	Lung cancer	Lung cancer
+433	X5500994158987071513201_F08.cel	Lung cancer	Lung cancer
+434	X5500994172383112813928_H08.cel	Lung cancer	Lung cancer
+435	X5500994158987071513201_H09.cel	Lung cancer	Lung cancer
+436	X5500994172383112813928_E01.cel	Lung cancer	Lung cancer
+437	X5500994172948120113978_C03.cel	Lung cancer	Lung cancer
+438	X5500994172383112813930_B01.cel	Lung cancer	Lung cancer
+439	X5500994172383112813930_C05.cel	Lung cancer	Lung cancer
+440	X5500994158987071513201_A08.cel	Lung cancer	Lung cancer
+441	X5500994173212120213068_C08.cel	Lung cancer	Lung cancer
+442	X5500994172383112813929_C07.cel	Lung cancer	Lung cancer
+443	X5500994172383112813929_F09.cel	Lung cancer	Lung cancer
+444	X5500994158987071513202_A07.cel	Lung cancer	Lung cancer
+445	X5500994158987071513201_F09.cel	Lung cancer	Lung cancer
+446	X5500994158987071513202_C05.cel	Lung cancer	Lung cancer
+447	X5500994158987071513202_D06.cel	Lung cancer	Lung cancer
+448	X5500994175999120813240_C11.cel	Lung cancer	Lung cancer
+449	X5500994175999120813240_E11.cel	Lung cancer	Lung cancer
+450	X5500994172383112813930_F04.cel	Lung cancer	Lung cancer
+451	X5500994175999120813240_F09.cel	Lung cancer	Lung cancer
+452	X5500994172383112813930_F01.cel	Lung cancer	Lung cancer
+453	X5500994172383112813929_E07.cel	Lung cancer	Lung cancer
+454	X5500994157493061613625_D08.cel	Lung cancer	Lung cancer
+455	X5500994173212120213068_D06.cel	Lung cancer	Lung cancer
+456	X5500994158987071513207_C10.cel	Lung cancer	Lung cancer
+457	X5500994158987071513201_G02.cel	Lung cancer	Lung cancer
+458	X5500994172383112813929_F01.cel	Lung cancer	Lung cancer
+459	X5500994172383112813930_E10.cel	Lung cancer	Lung cancer
+460	X5500994172383112813930_A04.cel	Lung cancer	Lung cancer
+461	X5500994158987071513209_D04.cel	Lung cancer	Lung cancer
+462	X5500994157493061613625_C07.cel	Lung cancer	Lung cancer
+463	X5500994172948120113978_E06.cel	Lung cancer	Lung cancer
+464	X5500994172383112813930_A03.cel	Lung cancer	Lung cancer
+465	X5500994172383112813929_G02.cel	Lung cancer	Lung cancer
+466	X5500994158987071513209_G02.cel	Lung cancer	Lung cancer
+467	X5500994157493061613625_E01.cel	Lung cancer	Lung cancer
+468	X5500994158987071513209_B11.cel	Lung cancer	Lung cancer
+469	X5500994172383112813930_B11.cel	Lung cancer	Lung cancer
+470	X5500994158987071513201_C09.cel	Lung cancer	Lung cancer
+471	X5500994172383112813930_C04.cel	Lung cancer	Lung cancer
+472	X5500994158987071513207_F06.cel	Lung cancer	Lung cancer
+473	X5500994175999120813240_E09.cel	Lung cancer	Lung cancer
+474	X5500994175999120813240_A08.cel	Lung cancer	Lung cancer
+475	X5500994158987071513201_D05.cel	Lung cancer	Lung cancer
+476	X5500994172383112813928_B02.cel	Lung cancer	Lung cancer
+477	X5500994172383112813930_C12.cel	Lung cancer	Lung cancer
+478	X5500994158987071513201_E07.cel	Lung cancer	Lung cancer
+479	X5500994175999120813240_B11.cel	Lung cancer	Lung cancer
+480	X5500994172383112813930_H10.cel	Lung cancer	Lung cancer
+481	X5500994172383112813929_D11.cel	Lung cancer	Lung cancer
+482	X5500994158987071513207_H04.cel	Lung cancer	Lung cancer
+483	X5500994172383112813930_D03.cel	Lung cancer	Lung cancer
+484	X5500994157493061613625_H07.cel	Lung cancer	Lung cancer
+485	X5500994173603120813304_D12.cel	Lung cancer	Lung cancer
+486	X5500994175999120813240_G07.cel	Lung cancer	Lung cancer
+487	X5500994172383112813928_G02.cel	Lung cancer	Lung cancer
+488	X5500994173212120213068_F08.cel	Lung cancer	Lung cancer
+489	X5500994158987071513202_G05.cel	Lung cancer	Lung cancer
+490	X5500994158987071513201_A09.cel	Lung cancer	Lung cancer
+491	X5500994172383112813930_C01.cel	Lung cancer	Lung cancer
+492	X5500994172383112813930_F02.cel	Lung cancer	Lung cancer
+493	X5500994172383112813928_D03.cel	Lung cancer	Lung cancer
+494	X5500994158987071513201_C08.cel	Lung cancer	Lung cancer
+495	X5500994172383112813930_H04.cel	Lung cancer	Lung cancer
+496	X5500994157493061613625_A02.cel	Lung cancer	Lung cancer
+497	X5500994172383112813930_C03.cel	Lung cancer	Lung cancer
+498	X5500994172383112813930_G02.cel	Lung cancer	Lung cancer
+499	X5500994172383112813929_A02.cel	Lung cancer	Lung cancer
+500	X5500994172383112813930_D04.cel	Lung cancer	Lung cancer
+501	X5500994158987071513201_E02.cel	Lung cancer	Lung cancer
+502	X5500994158987071513209_H09.cel	Lung cancer	Lung cancer
+503	X5500994172383112813930_E01.cel	Lung cancer	Lung cancer
+504	X5500994158987071513201_E08.cel	Lung cancer	Lung cancer
+505	X5500994175999120813240_A10.cel	Lung cancer	Lung cancer
+506	X5500994158987071513202_A05.cel	Lung cancer	Lung cancer
+507	X5500994158987071513201_D07.cel	Lung cancer	Lung cancer
+508	X5500994158987071513201_D08.cel	Lung cancer	Lung cancer
+509	X5500994172383112813928_G07.cel	Lung cancer	Lung cancer
+510	X5500994172383112813930_A11.cel	Lung cancer	Lung cancer
+511	X5500994173212120213068_E08.cel	Lung cancer	Lung cancer
+512	X5500994172383112813928_B08.cel	Lung cancer	Lung cancer
+513	X5500994158987071513201_H07.cel	Lung cancer	Lung cancer
+514	X5500994158987071513201_E09.cel	Lung cancer	Lung cancer
+515	X5500994158987071513209_A01.cel	Lung cancer	Lung cancer
+516	X5500994172948120113978_B07.cel	Lung cancer	Lung cancer
+517	X5500994158987071513202_B05.cel	Lung cancer	Lung cancer
+518	X5500994172383112813930_B04.cel	Lung cancer	Lung cancer
+519	X5500994172383112813930_E03.cel	Lung cancer	Lung cancer
+520	X5500994172383112813929_G11.cel	Lung cancer	Lung cancer
+521	X5500994158987071513201_G08.cel	Lung cancer	Lung cancer
+522	X5500994175999120813240_F11.cel	Lung cancer	Lung cancer
+523	X5500994158987071513209_E06.cel	Lung cancer	Lung cancer
+524	X5500994172383112813930_C02.cel	Lung cancer	Lung cancer
+525	X5500994172383112813928_H01.cel	Lung cancer	Lung cancer
+526	X5500994158987071513201_H08.cel	Lung cancer	Lung cancer
+527	X5500994172383112813930_D02.cel	Lung cancer	Lung cancer
+528	X5500994172948120113978_A10.cel	Lung cancer	Lung cancer
+529	X5500994172948120113978_C10.cel	Lung cancer	Lung cancer
+530	X5500994172383112813928_D12.cel	Lung cancer	Lung cancer
+531	X5500994172383112813930_H05.cel	Lung cancer	Lung cancer
+532	X5500994157493061613625_G08.cel	Lung cancer	Lung cancer
+533	X5500994158987071513201_B08.cel	Lung cancer	Lung cancer
+534	X5500994172383112813928_F04.cel	Lung cancer	Lung cancer
+535	X5500994158987071513201_A07.cel	Lung cancer	Lung cancer
+536	X5500994172383112813929_D09.cel	Lung cancer	Lung cancer
+537	X5500994157493061613625_D05.cel	Lung cancer	Lung cancer
+538	X5500994172383112813930_G05.cel	Lung cancer	Lung cancer
+539	X5500994172383112813930_H03.cel	Lung cancer	Lung cancer
+540	X5500994157493061613625_E08.cel	Lung cancer	Lung cancer
+541	X5500994158987071513209_A09.cel	Lung cancer	Lung cancer
+542	X5500994158987071513202_F05.cel	Lung cancer	Lung cancer
+543	X5500994158987071513209_E09.cel	Lung cancer	Lung cancer
+544	X5500994172383112813930_F03.cel	Lung cancer	Lung cancer
+545	X5500994175999120813240_G08.cel	Lung cancer	Lung cancer
+546	X5500994158987071513202_G04.cel	Lung cancer	Lung cancer
+547	X5500994172383112813930_H02.cel	Lung cancer	Lung cancer
+548	X5500994158987071513201_C07.cel	Lung cancer	Lung cancer
+549	X5500994158987071513209_F11.cel	Lymphoma	Lymphoma
+550	X5500994175999120813240_C03.cel	Lymphoma	Lymphoma
+551	X5500994158987071513209_H03.cel	Lymphoma	Lymphoma
+552	X5500994158987071513207_D05.cel	Lymphoma	Lymphoma
+553	X5500994172383112813929_B05.cel	Lymphoma	Lymphoma
+554	X5500994172383112813928_A08.cel	Lymphoma	Lymphoma
+555	X5500994175999120813240_A05.cel	Lymphoma	Lymphoma
+556	X5500994158987071513207_F05.cel	Lymphoma	Lymphoma
+557	X5500994158987071513202_B08.cel	Lymphoma	Lymphoma
+558	X5500994172948120113978_E01.cel	Lymphoma	Lymphoma
+559	X5500994158987071513207_B09.cel	Lymphoma	Lymphoma
+560	X5500994158987071513202_B06.cel	Lymphoma	Lymphoma
+561	X5500994172383112813929_C11.cel	Lymphoma	Lymphoma
+562	X5500994158987071513207_E09.cel	Lymphoma	Lymphoma
+563	X5500994172383112813929_H04.cel	Lymphoma	Lymphoma
+564	X5500994175999120813240_D06.cel	Lymphoma	Lymphoma
+565	X5500994173212120213068_D01.cel	Lymphoma	Lymphoma
+566	X5500994175999120813240_B01.cel	Lymphoma	Lymphoma
+567	X5500994172948120113978_D10.cel	Lymphoma	Lymphoma
+568	X5500994172383112813928_B11.cel	Lymphoma	Lymphoma
+569	X5500994172383112813928_C11.cel	Lymphoma	Lymphoma
+570	X5500994172383112813930_G11.cel	Lymphoma	Lymphoma
+571	X5500994158987071513207_E04.cel	Lymphoma	Lymphoma
+572	X5500994172948120113978_B06.cel	Lymphoma	Lymphoma
+573	X5500994175999120813240_E05.cel	Lymphoma	Lymphoma
+574	X5500994158987071513207_G08.cel	Lymphoma	Lymphoma
+575	X5500994175999120813240_F08.cel	Lymphoma	Lymphoma
+576	X5500994158987071513209_A10.cel	Lymphoma	Lymphoma
+577	X5500994172948120113978_A12.cel	Lymphoma	Lymphoma
+578	X5500994172383112813928_H10.cel	Lymphoma	Lymphoma
+579	X5500994173212120213068_C03.cel	Lymphoma	Lymphoma
+580	X5500994175999120813240_G11.cel	Lymphoma	Lymphoma
+581	X5500994158987071513207_D12.cel	Lymphoma	Lymphoma
+582	X5500994172383112813929_H01.cel	Lymphoma	Lymphoma
+583	X5500994157493061613625_B08.cel	Lymphoma	Lymphoma
+584	X5500994175999120813240_D05.cel	Lymphoma	Lymphoma
+585	X5500994158987071513207_H02.cel	Lymphoma	Lymphoma
+586	X5500994172383112813928_E10.cel	Lymphoma	Lymphoma
+587	X5500994158987071513201_C03.cel	Lymphoma	Lymphoma
+588	X5500994172383112813930_G09.cel	Lymphoma	Lymphoma
+589	X5500994173212120213068_B07.cel	Lymphoma	Lymphoma
+590	X5500994173212120213068_F01.cel	Lymphoma	Lymphoma
+591	X5500994175999120813240_A04.cel	Lymphoma	Lymphoma
+592	X5500994158987071513207_H11.cel	Lymphoma	Lymphoma
+593	X5500994172948120113978_F10.cel	Lymphoma	Lymphoma
+594	X5500994172383112813928_E02.cel	Lymphoma	Lymphoma
+595	X5500994158987071513209_F07.cel	Lymphoma	Lymphoma
+596	X5500994158987071513201_C02.cel	Lymphoma	Lymphoma
+597	X5500994158987071513201_F06.cel	Lymphoma	Lymphoma
+598	X5500994172383112813928_F05.cel	Lymphoma	Lymphoma
+599	X5500994158987071513207_G05.cel	Lymphoma	Lymphoma
+600	X5500994158987071513209_E02.cel	Lymphoma	Lymphoma
+601	X5500994172383112813929_H05.cel	Lymphoma	Lymphoma
+602	X5500994158987071513201_B01.cel	Lymphoma	Lymphoma
+603	X5500994172383112813930_B10.cel	Lymphoma	Lymphoma
+604	X5500994172383112813930_B07.cel	Lymphoma	Lymphoma
+605	X5500994172948120113978_H09.cel	Lymphoma	Lymphoma
+606	X5500994158987071513207_H09.cel	Lymphoma	Lymphoma
+607	X5500994172383112813930_E06.cel	Lymphoma	Lymphoma
+608	X5500994172383112813929_E01.cel	Lymphoma	Lymphoma
+609	X5500994158987071513209_G10.cel	Lymphoma	Lymphoma
+610	X5500994157493061613625_C11.cel	Lymphoma	Lymphoma
+611	X5500994175999120813240_G01.cel	Lymphoma	Lymphoma
+612	X5500994175999120813240_B02.cel	Lymphoma	Lymphoma
+613	X5500994172948120113978_B04.cel	Lymphoma	Lymphoma
+614	X5500994158987071513201_G03.cel	Lymphoma	Lymphoma
+615	X5500994157493061613625_D10.cel	Melanoma	Melanoma
+616	X5500994175999120813240_D07.cel	Melanoma	Melanoma
+617	X5500994173212120213068_G02.cel	Melanoma	Melanoma
+618	X5500994158987071513209_G01.cel	Melanoma	Melanoma
+619	X5500994172948120113978_D07.cel	Melanoma	Melanoma
+620	X5500994172383112813928_H03.cel	Melanoma	Melanoma
+621	X5500994157493061613625_B10.cel	Melanoma	Melanoma
+622	X5500994172383112813928_C02.cel	Melanoma	Melanoma
+623	X5500994158987071513207_A05.cel	Melanoma	Melanoma
+624	X5500994158987071513207_E05.cel	Melanoma	Melanoma
+625	X5500994175999120813240_E07.cel	Melanoma	Melanoma
+626	X5500994158987071513209_E08.cel	Melanoma	Melanoma
+627	X5500994173212120213068_F05.cel	Melanoma	Melanoma
+628	X5500994158987071513207_C05.cel	Melanoma	Melanoma
+629	X5500994175999120813240_G02.cel	Melanoma	Melanoma
+630	X5500994157493061613625_H08.cel	Melanoma	Melanoma
+631	X5500994158987071513207_B05.cel	Melanoma	Melanoma
+632	X5500994172948120113978_C11.cel	Melanoma	Melanoma
+633	X5500994157493061613625_H06.cel	Melanoma	Melanoma
+634	X5500994158987071513202_G12.cel	Melanoma	Melanoma
+635	X5500994157493061613625_E07.cel	Melanoma	Melanoma
+636	X5500994172383112813928_G05.cel	Melanoma	Melanoma
+637	X5500994158987071513202_E09.cel	Melanoma	Melanoma
+638	X5500994158987071513207_A02.cel	Melanoma	Melanoma
+639	X5500994158987071513209_C02.cel	Melanoma	Melanoma
+640	X5500994172383112813929_C02.cel	Melanoma	Melanoma
+641	X5500994158987071513202_B09.cel	Melanoma	Melanoma
+642	X5500994172383112813929_F12.cel	Melanoma	Melanoma
+643	X5500994157493061613625_C04.cel	Melanoma	Melanoma
+644	X5500994172383112813928_F12.cel	Melanoma	Melanoma
+645	X5500994172948120113978_F08.cel	Melanoma	Melanoma
+646	X5500994158987071513207_G02.cel	Melanoma	Melanoma
+647	X5500994172948120113978_A07.cel	Melanoma	Melanoma
+648	X5500994172383112813928_A01.cel	Melanoma	Melanoma
+649	X5500994175999120813240_H11.cel	Melanoma	Melanoma
+650	X5500994158987071513202_E12.cel	Melanoma	Melanoma
+651	X5500994157493061613625_F05.cel	Melanoma	Melanoma
+652	X5500994158987071513201_D04.cel	Melanoma	Melanoma
+653	X5500994158987071513207_B02.cel	Melanoma	Melanoma
+654	X5500994158987071513207_E10.cel	Melanoma	Melanoma
+655	X5500994157493061613625_A12.cel	Melanoma	Melanoma
+656	X5500994157493061613625_C02.cel	Melanoma	Melanoma
+657	X5500994157493061613625_D02.cel	Melanoma	Melanoma
+658	X5500994158987071513207_F09.cel	Melanoma	Melanoma
+659	X5500994172383112813928_C12.cel	Melanoma	Melanoma
+660	X5500994157493061613625_E05.cel	Melanoma	Melanoma
+661	X5500994158987071513209_G06.cel	Melanoma	Melanoma
+662	X5500994158987071513209_B07.cel	Melanoma	Melanoma
+663	X5500994172383112813929_A05.cel	Melanoma	Melanoma
+664	X5500994157493061613625_A06.cel	Melanoma	Melanoma
+665	X5500994157493061613625_G02.cel	Melanoma	Melanoma
+666	X5500994158987071513202_F09.cel	Melanoma	Melanoma
+667	X5500994157493061613625_A04.cel	Mesothelioma	Mesothelioma
+668	X5500994157493061613625_G04.cel	Mesothelioma	Mesothelioma
+669	X5500994157493061613625_D04.cel	Mesothelioma	Mesothelioma
+670	X5500994157493061613625_G06.cel	Mesothelioma	Mesothelioma
+671	X5500994157493061613625_D01.cel	Mesothelioma	Mesothelioma
+672	X5500994157493061613625_A08.cel	Mesothelioma	Mesothelioma
+673	X5500994157493061613625_H01.cel	Mesothelioma	Mesothelioma
+674	X5500994157493061613625_H11.cel	Mesothelioma	Mesothelioma
+675	X5500994157493061613625_C03.cel	Mesothelioma	Mesothelioma
+676	X5500994157493061613625_G10.cel	Mesothelioma	Mesothelioma
+677	X5500994157493061613625_A05.cel	Mesothelioma	Mesothelioma
+678	X5500994157493061613625_A09.cel	Mesothelioma	Mesothelioma
+679	X5500994157493061613625_C09.cel	Mesothelioma	Mesothelioma
+680	X5500994175999120813240_D03.cel	Mesothelioma	Mesothelioma
+681	X5500994157493061613625_B06.cel	Mesothelioma	Mesothelioma
+682	X5500994157493061613625_F03.cel	Mesothelioma	Mesothelioma
+683	X5500994157493061613625_B09.cel	Mesothelioma	Mesothelioma
+684	X5500994157493061613625_B02.cel	Mesothelioma	Mesothelioma
+685	X5500994157493061613625_H04.cel	Mesothelioma	Mesothelioma
+686	X5500994157493061613625_G05.cel	Mesothelioma	Mesothelioma
+687	X5500994157493061613625_H05.cel	Mesothelioma	Mesothelioma
+688	X5500994175999120813240_F07.cel	Myeloma	Myeloma
+689	X5500994173212120213068_H08.cel	Myeloma	Myeloma
+690	X5500994158987071513201_H03.cel	Myeloma	Myeloma
+691	X5500994172948120113978_D01.cel	Myeloma	Myeloma
+692	X5500994158987071513207_E03.cel	Myeloma	Myeloma
+693	X5500994172383112813930_E05.cel	Myeloma	Myeloma
+694	X5500994172383112813928_E09.cel	Myeloma	Myeloma
+695	X5500994158987071513201_D11.cel	Myeloma	Myeloma
+696	X5500994158987071513209_E03.cel	Myeloma	Myeloma
+697	X5500994172948120113978_C09.cel	Myeloma	Myeloma
+698	X5500994173212120213068_A05.cel	Myeloma	Myeloma
+699	X5500994158987071513202_C06.cel	Myeloma	Myeloma
+700	X5500994172383112813928_H04.cel	Myeloma	Myeloma
+701	X5500994173212120213068_F02.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+702	X5500994172383112813930_A08.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+703	X5500994158987071513209_C04.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+704	X5500994172383112813930_F06.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+705	X5500994172383112813930_F08.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+706	X5500994158987071513202_D10.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+707	X5500994158987071513209_A07.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+708	X5500994172383112813930_G08.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+709	X5500994172383112813930_G06.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+710	X5500994158987071513202_D05.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+711	X5500994175999120813240_A07.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+712	X5500994157493061613625_G07.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+713	X5500994172383112813930_C07.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+714	X5500994173603120813304_C11.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+715	X5500994173212120213068_C09.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+716	X5500994158987071513202_G09.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+717	X5500994158987071513207_B12.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+718	X5500994172383112813930_E08.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+719	X5500994158987071513209_H06.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+720	X5500994175999120813240_A02.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+721	X5500994172383112813930_G07.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+722	X5500994173212120213068_H02.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+723	X5500994173212120213068_E02.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+724	X5500994173212120213068_E06.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+725	X5500994172383112813930_H06.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+726	X5500994172948120113978_H04.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+727	X5500994172383112813928_H09.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+728	X5500994158987071513207_A12.cel	Adrenal cancer - neuroblastoma	Endocrine cancer
+729	X5500994172383112813929_G06.cel	Sarcoma	Sarcoma
+730	X5500994172383112813928_F09.cel	Sarcoma	Sarcoma
+731	X5500994158987071513202_C11.cel	Sarcoma	Sarcoma
+732	X5500994173212120213068_H05.cel	Sarcoma	Sarcoma
+733	X5500994158987071513207_G10.cel	Sarcoma	Sarcoma
+734	X5500994173603120813304_A12.cel	Sarcoma	Sarcoma
+735	X5500994158987071513201_H02.cel	Sarcoma	Sarcoma
+736	X5500994158987071513207_G04.cel	Sarcoma	Sarcoma
+737	X5500994175999120813240_F10.cel	Sarcoma	Sarcoma
+738	X5500994158987071513209_C12.cel	Sarcoma	Sarcoma
+739	X5500994172383112813929_F06.cel	Sarcoma	Sarcoma
+740	X5500994158987071513209_H12.cel	Sarcoma	Sarcoma
+741	X5500994172948120113978_D04.cel	Sarcoma	Sarcoma
+742	X5500994172383112813928_A09.cel	Sarcoma	Sarcoma
+743	X5500994172383112813928_B03.cel	Sarcoma	Sarcoma
+744	X5500994173212120213068_D05.cel	Sarcoma	Sarcoma
+745	X5500994175999120813240_C06.cel	Sarcoma	Sarcoma
+746	X5500994158987071513201_B03.cel	Sarcoma	Sarcoma
+747	X5500994175999120813240_D10.cel	Sarcoma	Sarcoma
+748	X5500994158987071513201_H01.cel	Sarcoma	Sarcoma
+749	X5500994172383112813930_D08.cel	Sarcoma	Sarcoma
+750	X5500994172383112813929_D01.cel	Sarcoma	Sarcoma
+751	X5500994158987071513209_F12.cel	Sarcoma	Sarcoma
+752	X5500994172383112813929_D06.cel	Sarcoma	Sarcoma
+753	X5500994158987071513201_A03.cel	Sarcoma	Sarcoma
+754	X5500994172383112813929_A07.cel	Sarcoma	Sarcoma
+755	X5500994158987071513209_H02.cel	Sarcoma	Sarcoma
+756	X5500994157493061613625_D12.cel	Sarcoma	Sarcoma
+757	X5500994157493061613625_G09.cel	Sarcoma	Sarcoma
+758	X5500994158987071513209_B08.cel	Sarcoma	Sarcoma
+759	X5500994157493061613625_D03.cel	Sarcoma	Sarcoma
+760	X5500994173212120213068_B06.cel	Sarcoma	Sarcoma
+761	X5500994157493061613625_E09.cel	Sarcoma	Sarcoma
+762	X5500994158987071513202_D09.cel	Sarcoma	Sarcoma
+763	X5500994173603120813304_H11.cel	Sarcoma	Sarcoma
+764	X5500994172948120113978_C06.cel	Sarcoma	Sarcoma
+765	X5500994158987071513207_G09.cel	Sarcoma	Sarcoma
+766	X5500994173603120813304_F11.cel	Sarcoma	Sarcoma
+767	X5500994172383112813929_E06.cel	Sarcoma	Sarcoma
+768	X5500994172383112813929_B09.cel	Sarcoma	Sarcoma
+769	X5500994157493061613625_B07.cel	Sarcoma	Sarcoma
+770	X5500994158987071513209_H07.cel	Sarcoma	Sarcoma
+771	X5500994158987071513202_G10.cel	Sarcoma	Sarcoma
+772	X5500994158987071513207_D02.cel	Sarcoma	Sarcoma
+773	X5500994172948120113978_H06.cel	Sarcoma	Sarcoma
+774	X5500994158987071513209_G12.cel	Sarcoma	Sarcoma
+775	X5500994175999120813240_D11.cel	Sarcoma	Sarcoma
+776	X5500994172383112813928_A06.cel	Sarcoma	Sarcoma
+777	X5500994172383112813929_B07.cel	Sarcoma	Sarcoma
+778	X5500994172383112813929_B01.cel	Sarcoma	Sarcoma
+779	X5500994172383112813928_C08.cel	Sarcoma	Sarcoma
+780	X5500994173212120213068_B01.cel	Sarcoma	Sarcoma
+781	X5500994172383112813928_D04.cel	Sarcoma	Sarcoma
+782	X5500994172383112813930_H11.cel	Sarcoma	Sarcoma
+783	X5500994172383112813928_B04.cel	Sarcoma	Sarcoma
+784	X5500994158987071513209_A02.cel	Sarcoma	Sarcoma
+785	X5500994172383112813928_A07.cel	Sarcoma	Sarcoma
+786	X5500994158987071513209_H10.cel	Melanoma	Melanoma
+787	X5500994158987071513209_D02.cel	Melanoma	Melanoma
+788	X5500994158987071513209_F02.cel	Melanoma	Melanoma
+789	X5500994158987071513201_F10.cel	Urogenital cancer	Urogenital cancer
+790	X5500994158987071513201_B02.cel	Urogenital cancer	Urogenital cancer
+791	X5500994158987071513201_E10.cel	Urogenital cancer	Urogenital cancer
+792	X5500994173603120813304_H12.cel	Urogenital cancer	Urogenital cancer
+793	X5500994158987071513202_B01.cel	Urogenital cancer	Urogenital cancer
+794	X5500994158987071513207_D07.cel	Urogenital cancer	Urogenital cancer
+795	X5500994158987071513202_F03.cel	Urogenital cancer	Urogenital cancer
+796	X5500994157493061613625_E06.cel	Urogenital cancer	Urogenital cancer
+797	X5500994158987071513202_F12.cel	Urogenital cancer	Urogenital cancer
+798	X5500994175999120813240_A09.cel	Urogenital cancer	Urogenital cancer
+799	X5500994158987071513202_A02.cel	Urogenital cancer	Urogenital cancer
+800	X5500994173212120213068_B05.cel	Urogenital cancer	Urogenital cancer
+801	X5500994158987071513207_B07.cel	Urogenital cancer	Urogenital cancer
+802	X5500994158987071513209_B03.cel	Urogenital cancer	Urogenital cancer
+803	X5500994157493061613625_H10.cel	Urogenital cancer	Urogenital cancer
+804	X5500994157493061613625_C01.cel	Urogenital cancer	Urogenital cancer
+805	X5500994158987071513207_A09.cel	Urogenital cancer	Urogenital cancer
+806	X5500994158987071513202_F04.cel	Urogenital cancer	Urogenital cancer
+807	X5500994173212120213068_C07.cel	Urogenital cancer	Urogenital cancer
+808	X5500994158987071513207_A08.cel	Urogenital cancer	Urogenital cancer
+809	X5500994172948120113978_E10.cel	Urogenital cancer	Urogenital cancer
+810	X5500994173212120213068_H06.cel	Urogenital cancer	Urogenital cancer
+811	X5500994172383112813930_D07.cel	Urogenital cancer	Urogenital cancer
+812	X5500994158987071513201_C04.cel	Urogenital cancer	Urogenital cancer
+813	X5500994172383112813929_E02.cel	Urogenital cancer	Urogenital cancer
+814	X5500994158987071513201_F11.cel	Urogenital cancer	Urogenital cancer
+815	X5500994158987071513201_A10.cel	Urogenital cancer	Urogenital cancer
+816	X5500994175999120813240_H08.cel	Urogenital cancer	Urogenital cancer
+817	X5500994172383112813928_D07.cel	Urogenital cancer	Urogenital cancer
+818	X5500994158987071513209_F09.cel	Urogenital cancer	Urogenital cancer
+819	X5500994158987071513202_C01.cel	Urogenital cancer	Urogenital cancer
+820	X5500994175999120813240_F01.cel	Urogenital cancer	Urogenital cancer
+821	X5500994172383112813928_F03.cel	Urogenital cancer	Urogenital cancer
+822	X5500994172383112813929_C01.cel	Urogenital cancer	Urogenital cancer
+823	X5500994157493061613625_F01.cel	Urogenital cancer	Urogenital cancer
+824	X5500994175999120813240_D08.cel	Urogenital cancer	Urogenital cancer
+825	X5500994158987071513201_C12.cel	Urogenital cancer	Urogenital cancer
+826	X5500994158987071513209_B06.cel	Urogenital cancer	Urogenital cancer
+827	X5500994158987071513207_G07.cel	Urogenital cancer	Urogenital cancer
+828	X5500994158987071513207_A07.cel	Urogenital cancer	Urogenital cancer
+829	X5500994158987071513201_D01.cel	Urogenital cancer	Urogenital cancer
+830	X5500994158987071513207_B11.cel	Urogenital cancer	Urogenital cancer
+831	X5500994158987071513201_H11.cel	Urogenital cancer	Urogenital cancer
+832	X5500994158987071513209_E01.cel	Urogenital cancer	Urogenital cancer
+833	X5500994172383112813930_D11.cel	Urogenital cancer	Urogenital cancer
+834	X5500994172948120113978_B01.cel	Urogenital cancer	Urogenital cancer
+835	X5500994172948120113978_G05.cel	Urogenital cancer	Urogenital cancer
+836	X5500994172383112813930_D09.cel	Urogenital cancer	Urogenital cancer
+837	X5500994157493061613625_G01.cel	Urogenital cancer	Urogenital cancer
+838	X5500994172383112813929_E03.cel	Urogenital cancer	Urogenital cancer
+839	X5500994172948120113978_E03.cel	Urogenital cancer	Urogenital cancer
+840	X5500994158987071513207_F07.cel	Urogenital cancer	Urogenital cancer
+841	X5500994172948120113978_G10.cel	Urogenital cancer	Urogenital cancer
+842	X5500994172948120113978_A11.cel	Urogenital cancer	Urogenital cancer
+843	X5500994157493061613625_B04.cel	Urogenital cancer	Urogenital cancer
+844	X5500994172383112813929_H12.cel	Urogenital cancer	Urogenital cancer
+845	X5500994158987071513201_B04.cel	Urogenital cancer	Urogenital cancer
+846	X5500994172383112813929_H06.cel	Urogenital cancer	Urogenital cancer
+847	X5500994158987071513207_H08.cel	Urogenital cancer	Urogenital cancer
+848	X5500994158987071513207_E06.cel	Urogenital cancer	Urogenital cancer
+849	X5500994172383112813929_F04.cel	Urogenital cancer	Urogenital cancer
+850	X5500994175999120813240_D02.cel	Urogenital cancer	Urogenital cancer
+851	X5500994175999120813240_E03.cel	Urogenital cancer	Urogenital cancer
+852	X5500994158987071513207_E08.cel	Urogenital cancer	Urogenital cancer
+853	X5500994172948120113978_D09.cel	Urogenital cancer	Urogenital cancer
+854	X5500994158987071513201_B12.cel	Urogenital cancer	Urogenital cancer
+855	X5500994175999120813240_E08.cel	Urogenital cancer	Urogenital cancer
+856	X5500994157493061613625_F02.cel	Urogenital cancer	Urogenital cancer
+857	X5500994158987071513201_D03.cel	Urogenital cancer	Urogenital cancer
+858	X5500994172383112813928_D06.cel	Urogenital cancer	Urogenital cancer
+859	X5500994158987071513209_E11.cel	Urogenital cancer	Urogenital cancer
+860	X5500994158987071513207_E12.cel	Urogenital cancer	Urogenital cancer
+861	X5500994158987071513207_E07.cel	Urogenital cancer	Urogenital cancer
+862	X5500994173212120213068_E04.cel	Urogenital cancer	Urogenital cancer
+863	X5500994172383112813930_C09.cel	Urogenital cancer	Urogenital cancer
+864	X5500994172948120113978_D03.cel	Urogenital cancer	Urogenital cancer
+865	X5500994157493061613625_F09.cel	Urogenital cancer	Urogenital cancer
+866	X5500994158987071513201_H10.cel	Urogenital cancer	Urogenital cancer
+867	X5500994157493061613625_B11.cel	Urogenital cancer	Urogenital cancer
+868	X5500994175999120813240_C09.cel	Urogenital cancer	Urogenital cancer
+869	X5500994158987071513209_D11.cel	Urogenital cancer	Urogenital cancer
+870	X5500994158987071513207_H07.cel	Urogenital cancer	Urogenital cancer
+871	X5500994175999120813240_B05.cel	Urogenital cancer	Urogenital cancer
+872	X5500994173603120813304_E12.cel	Urogenital cancer	Urogenital cancer
+873	X5500994158987071513202_D11.cel	Urogenital cancer	Urogenital cancer
+874	X5500994158987071513202_E03.cel	Urogenital cancer	Urogenital cancer
+875	X5500994172948120113978_C07.cel	Urogenital cancer	Urogenital cancer
+876	X5500994172383112813930_H08.cel	Urogenital cancer	Urogenital cancer
+877	X5500994158987071513207_A01.cel	Urogenital cancer	Urogenital cancer
+878	X5500994173212120213068_A08.cel	Urogenital cancer	Urogenital cancer
+879	X5500994158987071513201_G11.cel	Urogenital cancer	Urogenital cancer
+880	X5500994172383112813929_C09.cel	Urogenital cancer	Urogenital cancer
+881	X5500994172383112813928_F02.cel	Urogenital cancer	Urogenital cancer
+882	X5500994172948120113978_E04.cel	Urogenital cancer	Urogenital cancer
+883	X5500994175999120813240_F05.cel	Urogenital cancer	Urogenital cancer
+884	X5500994157493061613625_H02.cel	Urogenital cancer	Urogenital cancer
+885	X5500994172383112813928_H05.cel	Urogenital cancer	Urogenital cancer
+886	X5500994172383112813928_A11.cel	Urogenital cancer	Urogenital cancer
+887	X5500994158987071513209_D08.cel	Urogenital cancer	Urogenital cancer
+888	X5500994158987071513201_A11.cel	Urogenital cancer	Urogenital cancer
+889	X5500994172948120113978_C01.cel	Urogenital cancer	Urogenital cancer
+890	X5500994172383112813930_A12.cel	Urogenital cancer	Urogenital cancer
+891	X5500994173212120213068_D09.cel	Urogenital cancer	Urogenital cancer
+892	X5500994172383112813929_G01.cel	Urogenital cancer	Urogenital cancer
+893	X5500994172383112813930_E09.cel	Urogenital cancer	Urogenital cancer
+894	X5500994158987071513207_F03.cel	Urogenital cancer	Urogenital cancer
+895	X5500994158987071513201_G06.cel	Urogenital cancer	Urogenital cancer
+896	X5500994157493061613625_B03.cel	Urogenital cancer	Urogenital cancer
+897	X5500994157493061613625_F07.cel	Urogenital cancer	Urogenital cancer
+898	X5500994172383112813928_B10.cel	Urogenital cancer	Urogenital cancer
+899	X5500994175999120813240_F02.cel	Urogenital cancer	Urogenital cancer
+900	X5500994158987071513207_B08.cel	Urogenital cancer	Urogenital cancer
+901	X5500994172948120113978_H07.cel	Urogenital cancer	Urogenital cancer
+902	X5500994158987071513201_A12.cel	Urogenital cancer	Urogenital cancer
+903	X5500994158987071513202_A01.cel	Urogenital cancer	Urogenital cancer
+904	X5500994175999120813240_F06.cel	Urogenital cancer	Urogenital cancer
+905	X5500994157493061613625_F10.cel	Urogenital cancer	Urogenital cancer
+906	X5500994175999120813240_A11.cel	Urogenital cancer	Urogenital cancer
+907	X5500994157493061613625_C12.cel	Urogenital cancer	Urogenital cancer
+908	X5500994158987071513202_G01.cel	Urogenital cancer	Urogenital cancer
+909	X5500994158987071513207_C07.cel	Urogenital cancer	Urogenital cancer
+910	X5500994158987071513207_D04.cel	Urogenital cancer	Urogenital cancer
+911	X5500994172948120113978_H10.cel	Urogenital cancer	Urogenital cancer
+912	X5500994158987071513209_G07.cel	Urogenital cancer	Urogenital cancer
+913	X5500994158987071513209_E04.cel	Urogenital cancer	Urogenital cancer
+914	X5500994175999120813240_E04.cel	Urogenital cancer	Urogenital cancer
+915	X5500994172383112813928_C09.cel	Urogenital cancer	Urogenital cancer
+916	X5500994175999120813240_H02.cel	Urogenital cancer	Urogenital cancer
+917	X5500994158987071513207_D11.cel	Urogenital cancer	Urogenital cancer
+918	X5500994158987071513209_H11.cel	Urogenital cancer	Urogenital cancer
+919	X5500994158987071513202_H03.cel	Urogenital cancer	Urogenital cancer
+920	X5500994173212120213068_E07.cel	Urogenital cancer	Urogenital cancer
+921	X5500994158987071513202_B12.cel	Urogenital cancer	Urogenital cancer
+922	X5500994173212120213068_A07.cel	Urogenital cancer	Urogenital cancer
+923	X5500994158987071513202_D01.cel	Urogenital cancer	Urogenital cancer
+924	X5500994158987071513201_H06.cel	Urogenital cancer	Urogenital cancer
+925	X5500994158987071513202_F01.cel	Urogenital cancer	Urogenital cancer
+926	X5500994157493061613625_B12.cel	Urogenital cancer	Urogenital cancer
+927	X5500994173212120213068_C01.cel	Urogenital cancer	Urogenital cancer
+928	X5500994175999120813240_E10.cel	Urogenital cancer	Urogenital cancer
+929	X5500994172383112813928_F10.cel	Urogenital cancer	Urogenital cancer
+930	X5500994172383112813930_B09.cel	Urogenital cancer	Urogenital cancer
+931	X5500994158987071513201_D12.cel	Urogenital cancer	Urogenital cancer
+932	X5500994158987071513201_C10.cel	Urogenital cancer	Urogenital cancer
+933	X5500994158987071513209_D03.cel	Urogenital cancer	Urogenital cancer
+934	X5500994158987071513202_C02.cel	Urogenital cancer	Urogenital cancer
+935	X5500994175999120813240_B10.cel	Urogenital cancer	Urogenital cancer
+936	X5500994158987071513202_H01.cel	Urogenital cancer	Urogenital cancer
+937	X5500994173603120813304_E11.cel	Urogenital cancer	Urogenital cancer
+938	X5500994172383112813928_D09.cel	Urogenital cancer	Urogenital cancer
+939	X5500994158987071513209_E12.cel	Urogenital cancer	Urogenital cancer
+940	X5500994158987071513202_F08.cel	Urogenital cancer	Urogenital cancer
+941	X5500994172383112813928_E04.cel	Urogenital cancer	Urogenital cancer
+942	X5500994175999120813240_F04.cel	Urogenital cancer	Urogenital cancer
+943	X5500994172383112813929_B03.cel	Urogenital cancer	Urogenital cancer
+944	X5500994172383112813928_G10.cel	Urogenital cancer	Urogenital cancer
+945	X5500994158987071513209_E07.cel	Urogenital cancer	Urogenital cancer
+946	X5500994158987071513207_F04.cel	Urogenital cancer	Urogenital cancer
+947	X5500994173603120813304_F10.cel	Urogenital cancer	Urogenital cancer
+948	X5500994158987071513209_D12.cel	Urogenital cancer	Urogenital cancer
+949	X5500994172383112813928_G12.cel	Urogenital cancer	Urogenital cancer
+950	X5500994175999120813240_A01.cel	Urogenital cancer	Urogenital cancer
+951	X5500994175999120813240_G03.cel	Urogenital cancer	Urogenital cancer
+952	X5500994158987071513202_A11.cel	Urogenital cancer	Urogenital cancer
+953	X5500994158987071513202_C09.cel	Urogenital cancer	Urogenital cancer
+954	X5500994157493061613625_G03.cel	Urogenital cancer	Urogenital cancer

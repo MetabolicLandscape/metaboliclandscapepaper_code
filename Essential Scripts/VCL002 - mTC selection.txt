@@ -1,0 +1,76 @@
+library(dplyr)
+
+#DATA (geneset groups are the same for every dataset)
+GSEA_data<-read.delim("GEO_GSEA_REDUCED_Reordered.txt",header=TRUE,sep="\t")
+absGSEAdata<-abs(GSEA_data)
+GSEA_data$GENESET<-row.names(GSEA_data)
+
+geneset_groups<-as.data.frame(read.delim("ALL_DATASETS_FULL_TCS_GSEA_REDUCED_k50_Geneset_Groups_MOREINFO.txt",header=TRUE,sep="\t"))
+
+#combined GSEAdataset to work from
+Combined_GSEA_data<-left_join(GSEA_data,geneset_groups,by="GENESET")
+groups_vector<-unique(Combined_GSEA_data$GROUP)
+ncolGSEA<-ncol(GSEA_data)-1
+
+#Median TCs top3
+medians<-matrix(nrow=length(groups_vector),ncol=ncolGSEA)
+medians<-as.data.frame(medians)
+colnames(medians)<-colnames(GSEA_data)[1:ncolGSEA]
+for(j in 1:length(groups_vector)){
+	row.names(medians)[j]<-paste("GROUP_",groups_vector[j],"_Median",sep="")
+}
+for(i in 1:ncolGSEA){
+	for (j in 1:length(groups_vector)){
+		GSEA_filter_groupj<-filter(Combined_GSEA_data, GROUP == groups_vector[j])
+		medians[j,i]<-median(GSEA_filter_groupj[,i])
+	}
+}
+write.table(medians,"GEO_FULL_TCS_GSEA_Geneset_Clusters_k50_MEDIANS.txt",col.names=TRUE,row.names=TRUE,sep="\t")
+
+absmedians<-t(abs(medians))
+highestmedians<-matrix(nrow=length(groups_vector),ncol=7)
+colnames(highestmedians)<-c("GROUP","HIGHEST_TC_1","HIGHEST_MEDIAN_1","HIGHEST_TC_2","HIGHEST_MEDIAN_2","HIGHEST_TC_3","HIGHEST_MEDIAN_3")
+for (j in 1:length(groups_vector)){
+	jth_GROUP_medians<-as.data.frame(sort(absmedians[,j],decreasing=TRUE))
+	highestmedians[j,1]<-groups_vector[j]
+	highestmedians[j,3]<-jth_GROUP_medians[1,1]
+	highestmedians[j,2]<-row.names(jth_GROUP_medians)[1]
+	highestmedians[j,5]<-jth_GROUP_medians[2,1]
+	highestmedians[j,4]<-row.names(jth_GROUP_medians)[2]
+	highestmedians[j,7]<-jth_GROUP_medians[3,1]
+	highestmedians[j,6]<-row.names(jth_GROUP_medians)[3]
+}
+write.table(highestmedians,"GEO_FULL_TCS_GSEA_Geneset_Clusters_k50_HIGHESTMEDIANS.txt",col.names=TRUE,row.names=TRUE,sep="\t")
+
+
+
+#Highest TCs top3
+
+Highest<-matrix(ncol=10,nrow=length(groups_vector))
+colnames(Highest)<-c("GROUP","HIGHEST_TC_1","HIGHEST_GENESET_1","HIGHEST_VALUE_1","HIGHEST_TC_2","HIGHEST_GENESET_2","HIGHEST_VALUE_2","HIGHEST_TC_3","HIGHEST_GENESET_3","HIGHEST_VALUE_3")
+
+absGSEAdata$GENESET<-row.names(absGSEAdata)
+combinedabsGSEAdata<-left_join(absGSEAdata,geneset_groups,by="GENESET")
+for(i in 1:length(groups_vector)){
+	GSEA_filter_groupi<-filter(combinedabsGSEAdata, GROUP == groups_vector[i])
+	highestvalues<-sort(as.matrix(GSEA_filter_groupi[,1:ncolGSEA]), na.last=NA, decreasing=TRUE)
+	Highest[i,1]<-groups_vector[i]
+	Highest[i,2]<-colnames(GSEA_filter_groupi)[which(GSEA_filter_groupi == highestvalues[1], arr.ind=TRUE)[2]]
+	Highest[i,3]<-GSEA_filter_groupi$GENESET[which(GSEA_filter_groupi == highestvalues[1], arr.ind=TRUE)[1]]
+	Highest[i,4]<-highestvalues[1]
+	Highest[i,5]<-colnames(GSEA_filter_groupi)[which(GSEA_filter_groupi == highestvalues[2], arr.ind=TRUE)[2]]
+	Highest[i,6]<-GSEA_filter_groupi$GENESET[which(GSEA_filter_groupi == highestvalues[2], arr.ind=TRUE)[1]]
+	Highest[i,7]<-highestvalues[2]
+	Highest[i,8]<-colnames(GSEA_filter_groupi)[which(GSEA_filter_groupi == highestvalues[3], arr.ind=TRUE)[2]]
+	Highest[i,9]<-GSEA_filter_groupi$GENESET[which(GSEA_filter_groupi == highestvalues[3], arr.ind=TRUE)[1]]
+	Highest[i,10]<-highestvalues[3]
+}
+write.table(Highest,"GEO_FULL_TCS_GSEA_Geneset_Clusters_k50_HIGHESTVALUES.txt",col.names=TRUE,row.names=TRUE,sep="\t")
+
+
+#compile vector with top-mTCs
+mediansvector<-unique(c(highestmedians[,2],highestmedians[,4],highestmedians[,6]))
+highestvector<-unique(c(Highest[,2],Highest[,5],Highest[,8]))
+top3vector<-unique(c(mediansvector,highestvector))
+write.table(top3vector,"TC_Selection_Top3_GEO_REDUCED.txt",col.names=FALSE,row.names=FALSE,sep="\t")
+
