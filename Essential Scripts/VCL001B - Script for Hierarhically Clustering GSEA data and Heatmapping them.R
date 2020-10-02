@@ -2,11 +2,11 @@ library(dplyr)
 library(gplots)
 library(RColorBrewer)
 
+##colors for heatmap
 my_palette <- colorRampPalette(c("dodgerblue3", "white", "red2"))(n = 299)
 col_breaks <- c(seq(-10,-3,length=100),  seq(-2.99,3,length=100),  seq(3.01,10,length=100))
 
-##absdistance, wardD2 clustered
-
+##absdistance, wardD2 clustering for each gene expression dataset seperately
 GEO_GSEA<-read.delim("GEO_Combined_databases_Metabolic_Selection_GSEA_Data.txt",header=TRUE,sep="\t")
 colnames(GEO_GSEA)<-gsub("_minus_log_pvalue","",colnames(GEO_GSEA))
 GEO_selection<-as.matrix(read.delim("TC_Selection_Top3.txt",header=TRUE,sep="\t"))
@@ -33,7 +33,7 @@ heatmap.2(as.matrix(GEO_GSEA_Ordered), breaks=col_breaks, notecol="black",  dens
 dev.off()
 
 
-
+##for TCGA
 TCGA_GSEA<-read.delim("TCGA_Combined_databases_Metabolic_Selection_GSEA_Data.txt",header=TRUE,sep="\t")
 colnames(TCGA_GSEA)<-gsub("_minus_log_pvalue","",colnames(TCGA_GSEA))
 TCGA_selection<-as.matrix(read.delim("TC_Selection_Top3_TCGA.txt",header=TRUE,sep="\t"))
@@ -60,7 +60,7 @@ heatmap.2(as.matrix(TCGA_GSEA_Ordered), breaks=col_breaks, notecol="black",  den
 dev.off()
 
 
-
+##for CCLE
 CCLE_GSEA<-read.delim("CCLE_Combined_databases_Metabolic_Selection_GSEA_Data.txt",header=TRUE,sep="\t")
 colnames(CCLE_GSEA)<-gsub("_minus_log_pvalue","",colnames(CCLE_GSEA))
 CCLE_selection<-as.matrix(read.delim("TC_Selection_Top3_CCLE.txt",header=TRUE,sep="\t"))
@@ -88,7 +88,7 @@ heatmap.2(as.matrix(CCLE_GSEA_Ordered), breaks=col_breaks, notecol="black",  den
 dev.off()
 
 
-
+##for GDSC
 GDSC_GSEA<-read.delim("GDSC_Combined_databases_Metabolic_Selection_GSEA_Data.txt",header=TRUE,sep="\t")
 colnames(GDSC_GSEA)<-gsub("_minus_log_pvalue","",colnames(GDSC_GSEA))
 GDSC_selection<-as.matrix(read.delim("TC_Selection_Top3_GDSC.txt",header=TRUE,sep="\t"))
@@ -119,10 +119,7 @@ dev.off()
 
 
 
-my_palette <- colorRampPalette(c("dodgerblue3", "white", "red2"))(n = 299)
-col_breaks <- c(seq(-10,-3,length=100),  seq(-2.99,3,length=100),  seq(3.01,10,length=100))
-
-##absdistance, wardD2 clustered
+##Reorder all on GEO-geneset-order to be able to align y-axes in heatmaps
 
 GEO_GSEA<-read.delim("GEO_GSEA_wardD2_absdist.txt",header=TRUE,sep="\t")
 order<-row.names(GEO_GSEA)
@@ -156,11 +153,9 @@ dev.off()
 
 
 
-##NON METABOLIC TCS
+##Idem, but for NON METABOLIC TCS
 my_palette <- colorRampPalette(c("dodgerblue3", "white", "red2"))(n = 299)
 col_breaks <- c(seq(-10,-3,length=100),  seq(-2.99,3,length=100),  seq(3.01,10,length=100))
-
-##absdistance, wardD2 clustered
 
 GEO_GSEA<-read.delim("GEO_Combined_databases_Metabolic_Selection_GSEA_Data.txt",header=TRUE,sep="\t")
 colnames(GEO_GSEA)<-gsub("_minus_log_pvalue","",colnames(GEO_GSEA))
