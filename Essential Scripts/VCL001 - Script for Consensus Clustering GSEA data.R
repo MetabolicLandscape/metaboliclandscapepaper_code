@@ -664,7 +664,6 @@ rankedBarPlot=function(d,myc,cc,title){
 }
 
 
-
+##input data and run clustering
 Clusterdata <- read.delim("ALL_DATASETS_FULL_TCS_GSEA_REDUCED_Geneset_Ordered.txt", header=TRUE, sep="\t")
 ClusterResults_GSEA_Reduced_data <- ConsensusClusterPlus(as.matrix(t(Clusterdata)),maxK=100,reps=100,pItem=0.8,pFeature=0.8,title="Clustered GSEA data",clusterAlg="hc",distance="pearson",plot="pdf",writeTable=TRUE)
-save.image("VCL999.RData")
